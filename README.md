@@ -1,6 +1,9 @@
 # traffic-data
 # 
+## Screenshots
 
+![demo1.png](traffic.png)
+![demo1.png](traffic2.png)
 ## About this app
 
 A web app to analyze site traffic data such as CPU and site visits.
@@ -24,10 +27,7 @@ To fix a bug or enhance an existing module, follow these steps:
 - Commit your changes (git commit -am 'Improve feature')
 - Push to the branch (git push origin improve-feature)
 - Create a Pull Request
-## Screenshots
 
-![demo1.png](pic1.jpeg)
-![demo1.png](pic2.jpeg)
 ## Known Bugs
 
 If you find a bug (the website couldn't handle the query and or gave undesired results), kindly open an issue here by including your search query and the expected result.
